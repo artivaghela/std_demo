@@ -1,3 +1,4 @@
 # std_demo
-this is demo of student
+first git repo
+<br>
 author:arti vaghela
